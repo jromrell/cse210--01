@@ -6,7 +6,7 @@ def main():
     turn = 0
  # Game Loop
     while playing:
-     #blank line
+     #blank line   
      print()
      # Draw the current Game Board
      make_board(spots)
