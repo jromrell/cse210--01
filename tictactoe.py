@@ -45,6 +45,7 @@ def make_board(spots):
               f"{spots[4]}|{spots[5]}|{spots[6]}\n-+-+- \n"
               f"{spots[7]}|{spots[8]}|{spots[9]}")
     print(board)
+    
 
 def check_turn(turn):
     if turn % 2 == 0: 
